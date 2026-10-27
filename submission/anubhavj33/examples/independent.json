@@ -1,0 +1,7 @@
+[
+  {"id": "A", "duration": 1, "dependsOn": []},
+  {"id": "B", "duration": 2, "dependsOn": []},
+  {"id": "C", "duration": 3, "dependsOn": []},
+  {"id": "D", "duration": 4, "dependsOn": []},
+  {"id": "E", "duration": 5, "dependsOn": []}
+]
